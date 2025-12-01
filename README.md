@@ -1,15 +1,18 @@
-# GitHub Stats Card
-
 <div align="center">
+
+<img src="logo.svg" alt="GitHub Stats Card" width="120" height="120" />
+
+# GitHub Stats Card
 
 ![GitHub Stats Example](https://img.shields.io/badge/self--hosted-stats-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Cloudflare Workers](https://img.shields.io/badge/cloudflare-workers-orange)
 
-**Lightweight, self-hosted GitHub README stats service**
+### Lightweight, self-hosted GitHub README stats service
 
 No rate limits • Global edge deployment • 1-click setup
 
-[Quick Start](#quick-start) • [Demo](#demo) • [Sponsor](#sponsor)
+[Live Demo](https://stats.rapidtools.dev) • [Quick Start](#quick-start) • [Sponsor](#sponsor)
 
 </div>
 
@@ -188,10 +191,13 @@ PRs welcome! Please open an issue first to discuss changes.
 This project is built and maintained by **RapidTools**. If you find it useful:
 
 - ⭐ Star this repo
-- ☕ [Sponsor via GitHub Sponsors](https://github.com/sponsors/builder-rapidtools)
+- ☕ Support development:
+  - [Ko-fi](https://ko-fi.com/rapidtools) - One-time or monthly
+  - [Buy Me a Coffee](https://buymeacoffee.com/rapidtools)
+  - [GitHub Sponsors](https://github.com/sponsors/builder-rapidtools) (coming soon)
 - 🐦 Share it with others
 
-Even $1/month helps keep this project maintained!
+Every contribution helps keep this project maintained and improved!
 
 ## License
 
