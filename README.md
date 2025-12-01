@@ -29,10 +29,10 @@ The popular `github-readme-stats` service hits rate limits constantly (15M month
 ## Demo
 
 ### Stats Card
-![Stats Example](https://github-stats-card.your-subdomain.workers.dev/api/stats?username=torvalds)
+![Stats Example](https://stats.rapidtools.dev/api/stats?username=torvalds)
 
 ### Languages Card
-![Languages Example](https://github-stats-card.your-subdomain.workers.dev/api/languages?username=torvalds)
+![Languages Example](https://stats.rapidtools.dev/api/languages?username=torvalds)
 
 ## Quick Start
 
@@ -66,14 +66,16 @@ Add to your GitHub README:
 ### Stats Card
 
 ```markdown
-![GitHub Stats](https://your-worker.workers.dev/api/stats?username=YOUR_USERNAME)
+![GitHub Stats](https://stats.rapidtools.dev/api/stats?username=YOUR_USERNAME)
 ```
 
 ### Languages Card
 
 ```markdown
-![Top Languages](https://your-worker.workers.dev/api/languages?username=YOUR_USERNAME)
+![Top Languages](https://stats.rapidtools.dev/api/languages?username=YOUR_USERNAME)
 ```
+
+**Live Demo:** https://stats.rapidtools.dev/
 
 ### Themes
 

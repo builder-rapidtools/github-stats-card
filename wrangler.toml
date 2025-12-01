@@ -1,7 +1,11 @@
 name = "github-stats-card"
 main = "src/index.js"
 compatibility_date = "2024-12-01"
-workers_dev = true
+workers_dev = false
+
+[[routes]]
+pattern = "stats.rapidtools.dev/*"
+zone_name = "rapidtools.dev"
 
 [vars]
 CACHE_TTL = "3600"
